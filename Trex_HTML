@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang ="en" onclick="jump()">
+<head>
+    <meta charset="UTF-8">
+    <title>Game</title>
+    <link rel="stylesheet" href="trexstyle.css"> 
+</head>
+<body>
+    <div id="game">
+        <div id="character"><img src="PixelArt.png" alt="TRex" style="width:4em; height:5em;">
+        </div>
+        <div id="block"></div>
+    </div>
+</body>
+<script src="trexscript.js"></script>
+</html>
